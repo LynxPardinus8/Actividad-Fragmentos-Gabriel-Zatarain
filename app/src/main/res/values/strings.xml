@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fragmentos</string>
+
+    <string-array name="subjects">
+        <item>BBDD</item>
+        <item>programacion</item>
+    </string-array>
+</resources>
